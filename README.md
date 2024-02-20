@@ -6,6 +6,19 @@ Welcome to this repository that guides you through building a complete Trello cl
 # Introduction
 The associated video for this project is available on YouTube. Feel free to watch the video for a comprehensive understanding.
 
+# Clone the repository:
+
+git clone https://github.com/MounsefSAHOUL/trello-clone.git
+cd trello-clone
+
+# Install dependencies:
+
+npm install
+
+# Start the development server:
+
+npm start
+
 # Project Structure
 Introduction: Overview of the project and technologies used.
 Setting up the Project Structure: Establishing the initial structure for boards and cards.
